@@ -65,7 +65,9 @@ The notebooks are self-contained: each one re-declares the same utility cell (de
 
    Mole fractions are converted to log S on the g/100 g scale via the molar masses (clozapine 326.82 g/mol), and the result is written to `clozapine_pure_solvent_pretrain_100.csv`.
 
-Only the code, the input grid, the manifest and the resulting table are kept in the repository. ORCA's raw working files (`.gbw`, `.densities` and the rest of the per-molecule scratch — about 1.4 GB for 101 molecules) are not versioned.
+**This repository carries one batch of that run.** The 100-solvent batch documented here is 1200 grid rows (100 solvents × 12 temperatures). The same notebook was then run unchanged on four further solvent batches — 73, 99, 127 and another 99 solvents — so the full pretraining set covers **498 solvent systems × 12 temperatures** (278.15–333.15 K, 6000 rows). Merged into a single table it becomes `combined_file_XTB.csv` at the repository root, which holds 495 distinct solvent/SMILES pairs. Only the 100-solvent batch is shipped per molecule here (code, grid, manifest, sigma profiles); the remaining ~400 solvents went through exactly the same two cells.
+
+Only the code, the input grid, the manifest and the resulting table of that batch are kept in the repository. ORCA's raw working files (`.gbw`, `.densities` and the rest of the per-molecule scratch — about 1.4 GB for 101 molecules) are not versioned.
 
 The **sigma profiles themselves are published as a release asset** instead of being committed, so the thermodynamics half of the pipeline runs without ORCA:
 
