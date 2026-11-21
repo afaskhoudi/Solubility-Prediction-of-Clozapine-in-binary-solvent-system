@@ -1,0 +1,102 @@
+name,smiles,cosmo_file,solvent
+clozapine,ClC1=CC=C2NC=3C=CC=CC3C(=NC2=C1)N4CCN(C)CC4,cosmo_calcs\clozapine\clozapine.solute.orcacosmo,
+1-Thiapropyl_-Benzene,C1=CC=CC=C1SCC,cosmo_calcs\1-Thiapropyl_-Benzene\1-Thiapropyl_-Benzene.solute.orcacosmo,(1-Thiapropyl)-Benzene
+E_-Citral,CC(=CCC/C(=C/C=O)/C)C,cosmo_calcs\E_-Citral\E_-Citral.solute.orcacosmo,(E)-Citral
+Z_-3-Hexen-1-Yl_Formate,CC\C=C/CCOC=O,cosmo_calcs\Z_-3-Hexen-1-Yl_Formate\Z_-3-Hexen-1-Yl_Formate.solute.orcacosmo,(Z)-3-Hexen-1-Yl Formate
+Z_-3-Hexen-1-ol,CC\C=C/CCO,cosmo_calcs\Z_-3-Hexen-1-ol\Z_-3-Hexen-1-ol.solute.orcacosmo,(Z)-3-Hexen-1-ol
+Z_-4-Hepten-1-ol,CC\C=C/CCCO,cosmo_calcs\Z_-4-Hepten-1-ol\Z_-4-Hepten-1-ol.solute.orcacosmo,(Z)-4-Hepten-1-ol
+Z_-6-Nonen-1-Al,CC\C=C/CCCCC=O,cosmo_calcs\Z_-6-Nonen-1-Al\Z_-6-Nonen-1-Al.solute.orcacosmo,(Z)-6-Nonen-1-Al
+Z_-Verbenol,CC1=C[C@H]([C@@H]2C[C@H]1C2(C)C)O,cosmo_calcs\Z_-Verbenol\Z_-Verbenol.solute.orcacosmo,(Z)-Verbenol
+1_1-Dimethylcyclohexane,CC1(C)CCCCC1,cosmo_calcs\1_1-Dimethylcyclohexane\1_1-Dimethylcyclohexane.solute.orcacosmo,"1,1-Dimethylcyclohexane"
+1_2_3-Trimethylbenzene,CC(C(C)=CC=C1)=C1C,cosmo_calcs\1_2_3-Trimethylbenzene\1_2_3-Trimethylbenzene.solute.orcacosmo,"1,2,3-Trimethylbenzene"
+1_2-Cyclohexanedione,C1CCC(=O)C(=O)C1,cosmo_calcs\1_2-Cyclohexanedione\1_2-Cyclohexanedione.solute.orcacosmo,"1,2-Cyclohexanedione"
+1_3-Butanediol,CC(O)CCO,cosmo_calcs\1_3-Butanediol\1_3-Butanediol.solute.orcacosmo,"1,3-Butanediol"
+1_3-Cyclohexadiene,C1=CCCC=C1,cosmo_calcs\1_3-Cyclohexadiene\1_3-Cyclohexadiene.solute.orcacosmo,"1,3-Cyclohexadiene"
+1_3-Dioxolane,C1OCCO1,cosmo_calcs\1_3-Dioxolane\1_3-Dioxolane.solute.orcacosmo,"1,3-Dioxolane"
+1_4-Thioxane,C1CSCCO1,cosmo_calcs\1_4-Thioxane\1_4-Thioxane.solute.orcacosmo,"1,4-Thioxane"
+1_8-Cineole_Eucalyptol,CC1(C2CCC(O1)(CC2)C)C,cosmo_calcs\1_8-Cineole_Eucalyptol\1_8-Cineole_Eucalyptol.solute.orcacosmo,"1,8-Cineole (Eucalyptol)"
+1-Hepten-3-ol,CCCCC(C=C)O,cosmo_calcs\1-Hepten-3-ol\1-Hepten-3-ol.solute.orcacosmo,1-Hepten-3-ol
+1-Nonanal,CCCCCCCCC=O,cosmo_calcs\1-Nonanal\1-Nonanal.solute.orcacosmo,1-Nonanal
+1-Nonyne,C#CCCCCCCC,cosmo_calcs\1-Nonyne\1-Nonyne.solute.orcacosmo,1-Nonyne
+1-Octanal,CCCCCCCC=O,cosmo_calcs\1-Octanal\1-Octanal.solute.orcacosmo,1-Octanal
+1-Octanol,CCCCCCCCO,cosmo_calcs\1-Octanol\1-Octanol.solute.orcacosmo,1-Octanol
+1-Penten-3-ol,CCC(C=C)O,cosmo_calcs\1-Penten-3-ol\1-Penten-3-ol.solute.orcacosmo,1-Penten-3-ol
+1-Phenyl-3-Methylbutane,CC(C)CCC1=CC=CC=C1,cosmo_calcs\1-Phenyl-3-Methylbutane\1-Phenyl-3-Methylbutane.solute.orcacosmo,1-Phenyl-3-Methylbutane
+1-Propene_3_3_-Thiobis-,C=CCSCC=C,cosmo_calcs\1-Propene_3_3_-Thiobis-\1-Propene_3_3_-Thiobis-.solute.orcacosmo,"1-Propene, 3,3'-Thiobis-"
+2_4_-Dimethyl_Acetophenone,CC1=CC(=C(C=C1)C(=O)C)C,cosmo_calcs\2_4_-Dimethyl_Acetophenone\2_4_-Dimethyl_Acetophenone.solute.orcacosmo,"2',4'-Dimethyl Acetophenone"
+2_3-Dihydrofuran,O1CCC=C1,cosmo_calcs\2_3-Dihydrofuran\2_3-Dihydrofuran.solute.orcacosmo,"2,3-Dihydrofuran"
+2_4-Dimethylpyrrole,CC1=CNC(C)=C1,cosmo_calcs\2_4-Dimethylpyrrole\2_4-Dimethylpyrrole.solute.orcacosmo,"2,4-Dimethylpyrrole"
+2_6-Dimethyl-5-Heptenal,CC(CCC=C(C)C)C=O,cosmo_calcs\2_6-Dimethyl-5-Heptenal\2_6-Dimethyl-5-Heptenal.solute.orcacosmo,"2,6-Dimethyl-5-Heptenal"
+2_6-Dimethylthiophenol,S-c(c(cc1)C)c(c1)C,cosmo_calcs\2_6-Dimethylthiophenol\2_6-Dimethylthiophenol.solute.orcacosmo,"2,6-Dimethylthiophenol"
+2-Acetyl_Pyridine,CC(=O)C1=CC=CC=N1,cosmo_calcs\2-Acetyl_Pyridine\2-Acetyl_Pyridine.solute.orcacosmo,2-Acetyl Pyridine
+2-Acetyl-1-Methyl_Pyrrole,CC(=O)C1=CC=CN1C,cosmo_calcs\2-Acetyl-1-Methyl_Pyrrole\2-Acetyl-1-Methyl_Pyrrole.solute.orcacosmo,2-Acetyl-1-Methyl Pyrrole
+2-Butanone_3-Hydroxy-,CC(C(O)C)=O,cosmo_calcs\2-Butanone_3-Hydroxy-\2-Butanone_3-Hydroxy-.solute.orcacosmo,"2-Butanone, 3-Hydroxy-"
+2-Ethoxythiazole,CCOC1=NC=CS1,cosmo_calcs\2-Ethoxythiazole\2-Ethoxythiazole.solute.orcacosmo,2-Ethoxythiazole
+2-Ethyl_Fenchol,CCC1(C(C2CCC1(C2)C)(C)C)O,cosmo_calcs\2-Ethyl_Fenchol\2-Ethyl_Fenchol.solute.orcacosmo,2-Ethyl Fenchol
+2-Ethyl_Hexyl_Acetate,O=C(OCC(CC)CCCC)C,cosmo_calcs\2-Ethyl_Hexyl_Acetate\2-Ethyl_Hexyl_Acetate.solute.orcacosmo,2-Ethyl Hexyl Acetate
+2-Ethyl-4_5-Dimethyl_Oxazole,CCC1=NC(=C(O1)C)C,cosmo_calcs\2-Ethyl-4_5-Dimethyl_Oxazole\2-Ethyl-4_5-Dimethyl_Oxazole.solute.orcacosmo,"2-Ethyl-4,5-Dimethyl Oxazole"
+2-Ethylpyridine,CCC1=CC=CC=N1,cosmo_calcs\2-Ethylpyridine\2-Ethylpyridine.solute.orcacosmo,2-Ethylpyridine
+2-Formyl_Pyrrole,C1=CNC(=C1)C=O,cosmo_calcs\2-Formyl_Pyrrole\2-Formyl_Pyrrole.solute.orcacosmo,2-Formyl Pyrrole
+2-Furfuryl_Acetate,O1C=CC=C1COC(C)=O,cosmo_calcs\2-Furfuryl_Acetate\2-Furfuryl_Acetate.solute.orcacosmo,2-Furfuryl Acetate
+2-Heptyne,CC#CCCCC,cosmo_calcs\2-Heptyne\2-Heptyne.solute.orcacosmo,2-Heptyne
+2-Hexanol,CC(O)CCCC,cosmo_calcs\2-Hexanol\2-Hexanol.solute.orcacosmo,2-Hexanol
+2-Hexyne,CC#CCCC,cosmo_calcs\2-Hexyne\2-Hexyne.solute.orcacosmo,2-Hexyne
+2-Methoxy_Tetrahydropyrane,COC1OCCCC1,cosmo_calcs\2-Methoxy_Tetrahydropyrane\2-Methoxy_Tetrahydropyrane.solute.orcacosmo,2-Methoxy Tetrahydropyrane
+2-Methyl_Tetrahydrofuran,CC1CCCO1,cosmo_calcs\2-Methyl_Tetrahydrofuran\2-Methyl_Tetrahydrofuran.solute.orcacosmo,2-Methyl Tetrahydrofuran
+2-Methyl-1_3-Dioxolane,CC1OCCO1,cosmo_calcs\2-Methyl-1_3-Dioxolane\2-Methyl-1_3-Dioxolane.solute.orcacosmo,"2-Methyl-1,3-Dioxolane"
+2-Methyl-3-Tetrahydrofuran_Thiol,CC1C(CCO1)S,cosmo_calcs\2-Methyl-3-Tetrahydrofuran_Thiol\2-Methyl-3-Tetrahydrofuran_Thiol.solute.orcacosmo,2-Methyl-3-Tetrahydrofuran Thiol
+2-Octyne,CC#CCCCCC,cosmo_calcs\2-Octyne\2-Octyne.solute.orcacosmo,2-Octyne
+2-Pentyl_Pyridine,CCCCCC1=CC=CC=N1,cosmo_calcs\2-Pentyl_Pyridine\2-Pentyl_Pyridine.solute.orcacosmo,2-Pentyl Pyridine
+2-Pentyne,CC#CCC,cosmo_calcs\2-Pentyne\2-Pentyne.solute.orcacosmo,2-Pentyne
+2-Propanol,OC(C)C,cosmo_calcs\2-Propanol\2-Propanol.solute.orcacosmo,2-Propanol
+3-_5-Methyl-2-Furyl_Butanal,CCC(C=O)C1=CC=C(O1)C,cosmo_calcs\3-_5-Methyl-2-Furyl_Butanal\3-_5-Methyl-2-Furyl_Butanal.solute.orcacosmo,3-(5-Methyl-2-Furyl) Butanal
+3-_Methylthio_Propanoic_Acid_Methyl_Ester,COC(CCSC)=O,cosmo_calcs\3-_Methylthio_Propanoic_Acid_Methyl_Ester\3-_Methylthio_Propanoic_Acid_Methyl_Ester.solute.orcacosmo,3-(Methylthio)Propanoic Acid Methyl Ester
+3-Acetyl-2_5-Dimethyl_Thiophene,CC1=CC(=C(S1)C)C(=O)C,cosmo_calcs\3-Acetyl-2_5-Dimethyl_Thiophene\3-Acetyl-2_5-Dimethyl_Thiophene.solute.orcacosmo,"3-Acetyl-2,5-Dimethyl Thiophene"
+3-Butyl_Pyridine,CCCCC1=CN=CC=C1,cosmo_calcs\3-Butyl_Pyridine\3-Butyl_Pyridine.solute.orcacosmo,3-Butyl Pyridine
+3-Decanone,CCCCCCCC(=O)CC,cosmo_calcs\3-Decanone\3-Decanone.solute.orcacosmo,3-Decanone
+3-Decen-2-One,CCCCCCC=CC(=O)C,cosmo_calcs\3-Decen-2-One\3-Decen-2-One.solute.orcacosmo,3-Decen-2-One
+3-Ethylpyridine,CCC1=CN=CC=C1,cosmo_calcs\3-Ethylpyridine\3-Ethylpyridine.solute.orcacosmo,3-Ethylpyridine
+3-Hexanol,OC(CC)CCC,cosmo_calcs\3-Hexanol\3-Hexanol.solute.orcacosmo,3-Hexanol
+3-Hexanone,CCC(CCC)=O,cosmo_calcs\3-Hexanone\3-Hexanone.solute.orcacosmo,3-Hexanone
+3-Methyl_Cyclohexanone,O=C1CC(C)CCC1,cosmo_calcs\3-Methyl_Cyclohexanone\3-Methyl_Cyclohexanone.solute.orcacosmo,3-Methyl Cyclohexanone
+3-Methyl-2-Cyclopenten-1-One,CC1=CC(=O)CC1,cosmo_calcs\3-Methyl-2-Cyclopenten-1-One\3-Methyl-2-Cyclopenten-1-One.solute.orcacosmo,3-Methyl-2-Cyclopenten-1-One
+3-Methylcyclopentanone,O=C1CC(C)CC1,cosmo_calcs\3-Methylcyclopentanone\3-Methylcyclopentanone.solute.orcacosmo,3-Methylcyclopentanone
+4-Ethyl_Anisole,CCC1=CC=C(C=C1)OC,cosmo_calcs\4-Ethyl_Anisole\4-Ethyl_Anisole.solute.orcacosmo,4-Ethyl Anisole
+4-Methyl_4-Mercaptopentan-2-One_1_In_Pg,CC(=O)CC(C)(C)S,cosmo_calcs\4-Methyl_4-Mercaptopentan-2-One_1_In_Pg\4-Methyl_4-Mercaptopentan-2-One_1_In_Pg.solute.orcacosmo,4-Methyl 4-Mercaptopentan-2-One 1% In Pg
+4-Methyl-2-Pentyne,CC(C)C#CC,cosmo_calcs\4-Methyl-2-Pentyne\4-Methyl-2-Pentyne.solute.orcacosmo,4-Methyl-2-Pentyne
+4-Methylpyrimidine,CC1=NC=NC=C1,cosmo_calcs\4-Methylpyrimidine\4-Methylpyrimidine.solute.orcacosmo,4-Methylpyrimidine
+4-Phenyl-2-Butanol,CC(CCC1=CC=CC=C1)O,cosmo_calcs\4-Phenyl-2-Butanol\4-Phenyl-2-Butanol.solute.orcacosmo,4-Phenyl-2-Butanol
+4-Tert-Butylpyridine,CC(C)(C)C1=CC=NC=C1,cosmo_calcs\4-Tert-Butylpyridine\4-Tert-Butylpyridine.solute.orcacosmo,4-Tert-Butylpyridine
+5-Methyl_Thiazole,CC1=CN=CS1,cosmo_calcs\5-Methyl_Thiazole\5-Methyl_Thiazole.solute.orcacosmo,5-Methyl Thiazole
+5-Methyl-1-Hexyne,C#CCCC(C)C,cosmo_calcs\5-Methyl-1-Hexyne\5-Methyl-1-Hexyne.solute.orcacosmo,5-Methyl-1-Hexyne
+5-Methyl-2-Hepten-4-One,CCC(C)C(=O)C=CC,cosmo_calcs\5-Methyl-2-Hepten-4-One\5-Methyl-2-Hepten-4-One.solute.orcacosmo,5-Methyl-2-Hepten-4-One
+Acetoin_Acetate,CC(C(=O)C)OC(=O)C,cosmo_calcs\Acetoin_Acetate\Acetoin_Acetate.solute.orcacosmo,Acetoin Acetate
+Acetoin_Butyrate,CCCC(=O)OC(C)C(=O)C,cosmo_calcs\Acetoin_Butyrate\Acetoin_Butyrate.solute.orcacosmo,Acetoin Butyrate
+Acetone,CC(C)=O,cosmo_calcs\Acetone\Acetone.solute.orcacosmo,Acetone
+Allyl_Methyl_Sulfide,CSCC=C,cosmo_calcs\Allyl_Methyl_Sulfide\Allyl_Methyl_Sulfide.solute.orcacosmo,Allyl Methyl Sulfide
+Amyl_Acetate,O=C(OCCCCC)C,cosmo_calcs\Amyl_Acetate\Amyl_Acetate.solute.orcacosmo,Amyl Acetate
+Anisole,COC1=CC=CC=C1,cosmo_calcs\Anisole\Anisole.solute.orcacosmo,Anisole
+Benzyl_Methyl_Ether,COCC1=CC=CC=C1,cosmo_calcs\Benzyl_Methyl_Ether\Benzyl_Methyl_Ether.solute.orcacosmo,Benzyl Methyl Ether
+Bornyl_Acetate,CC(=O)O[C@@H]1C[C@@H]2CC[C@]1(C2(C)C)C,cosmo_calcs\Bornyl_Acetate\Bornyl_Acetate.solute.orcacosmo,Bornyl Acetate
+Butyl_Lactate,O=C(C(O)C)OCCCC,cosmo_calcs\Butyl_Lactate\Butyl_Lactate.solute.orcacosmo,Butyl Lactate
+Butyraldehyde,CCCC=O,cosmo_calcs\Butyraldehyde\Butyraldehyde.solute.orcacosmo,Butyraldehyde
+Caprolactone_Epsilon,O=C1OCCCCC1,cosmo_calcs\Caprolactone_Epsilon\Caprolactone_Epsilon.solute.orcacosmo,Caprolactone (Epsilon)
+Caryophyllene,CC1=CCCC(=C)[C@H]2CC([C@@H]2CC1)(C)C,cosmo_calcs\Caryophyllene\Caryophyllene.solute.orcacosmo,Caryophyllene
+Cis-3_7-Dimethyl-2_6-Octadien-1-ol,C\C(CC\C=C(C)\C)=C/CO,cosmo_calcs\Cis-3_7-Dimethyl-2_6-Octadien-1-ol\Cis-3_7-Dimethyl-2_6-Octadien-1-ol.solute.orcacosmo,"Cis-3,7-Dimethyl-2,6-Octadien-1-ol"
+Citronellal,CC(CCC=C(C)C)CC=O,cosmo_calcs\Citronellal\Citronellal.solute.orcacosmo,Citronellal
+Crotonlactone,O=C1OCC=C1,cosmo_calcs\Crotonlactone\Crotonlactone.solute.orcacosmo,Crotonlactone
+Cyclobutanol,OC1CCC1,cosmo_calcs\Cyclobutanol\Cyclobutanol.solute.orcacosmo,Cyclobutanol
+Cyclobutanone,O=C1CCC1,cosmo_calcs\Cyclobutanone\Cyclobutanone.solute.orcacosmo,Cyclobutanone
+Cycloheptene,C1CCC=CCC1,cosmo_calcs\Cycloheptene\Cycloheptene.solute.orcacosmo,Cycloheptene
+Cyclohexyl_Carbinol_C6h11-Ch2oh,OCC1CCCCC1,cosmo_calcs\Cyclohexyl_Carbinol_C6h11-Ch2oh\Cyclohexyl_Carbinol_C6h11-Ch2oh.solute.orcacosmo,Cyclohexyl Carbinol C6h11-Ch2oh
+Cyclohexyl_Formate,O=COC1CCCCC1,cosmo_calcs\Cyclohexyl_Formate\Cyclohexyl_Formate.solute.orcacosmo,Cyclohexyl Formate
+Cyclopentanone,O=C1CCCC1,cosmo_calcs\Cyclopentanone\Cyclopentanone.solute.orcacosmo,Cyclopentanone
+Decanal,CCCCCCCCCC=O,cosmo_calcs\Decanal\Decanal.solute.orcacosmo,Decanal
+Delta-Hexalactone,CC1CCCC(=O)O1,cosmo_calcs\Delta-Hexalactone\Delta-Hexalactone.solute.orcacosmo,Delta-Hexalactone
+Di-Isobutyl_Ketone,CC(C)CC(CC(C)C)=O,cosmo_calcs\Di-Isobutyl_Ketone\Di-Isobutyl_Ketone.solute.orcacosmo,Di-Isobutyl Ketone
+Diethyl_Carbonate,O=C(OCC)OCC,cosmo_calcs\Diethyl_Carbonate\Diethyl_Carbonate.solute.orcacosmo,Diethyl Carbonate
+Diethyl_Sulfide,CCSCC,cosmo_calcs\Diethyl_Sulfide\Diethyl_Sulfide.solute.orcacosmo,Diethyl Sulfide
+Diethyl_Sulfite,CCOS(OCC)=O,cosmo_calcs\Diethyl_Sulfite\Diethyl_Sulfite.solute.orcacosmo,Diethyl Sulfite
+Diethylene_Glycol_Monobutyl_Ether,CCCCOCCOCCO,cosmo_calcs\Diethylene_Glycol_Monobutyl_Ether\Diethylene_Glycol_Monobutyl_Ether.solute.orcacosmo,Diethylene Glycol Monobutyl Ether
+Diethylene_Glycol_Monoethyl_Ether,CCOCCOCCO,cosmo_calcs\Diethylene_Glycol_Monoethyl_Ether\Diethylene_Glycol_Monoethyl_Ether.solute.orcacosmo,Diethylene Glycol Monoethyl Ether
+Dihydropyran,C1CCOC=C1,cosmo_calcs\Dihydropyran\Dihydropyran.solute.orcacosmo,Dihydropyran

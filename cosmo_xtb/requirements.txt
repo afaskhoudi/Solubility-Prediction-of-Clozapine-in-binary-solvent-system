@@ -1,0 +1,17 @@
+# Quantum-chemistry step (separate from the ML stack in ../requirements.txt)
+
+# Batch driver + solver
+pandas>=2.0
+numpy>=1.24
+scipy>=1.10
+rdkit>=2023.9
+
+# ORCA Python Interface (FACCTs) — installed per its upstream instructions, not from PyPI
+# opi
+
+# COSMO-RS thermodynamics (openCOSMORS24a parameterization)
+# opencosmorspy
+
+# External binaries, installed separately and on PATH — not pip packages:
+#   ORCA 6.x        (COSMO-RS single points, DFT BP86/def2-TZVPD)
+#   xtb             (GFN2-xTB geometry refinement; e.g. `conda install -c conda-forge xtb`)
