@@ -18,7 +18,6 @@
 xtbopt.*
 xtbtopo.mol
 xtbopt.log
-cosmo_calcs/
 
 # Python
 __pycache__/

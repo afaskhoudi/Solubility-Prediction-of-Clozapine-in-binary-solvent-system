@@ -27,8 +27,9 @@ The ablations walk through the crossings of three switches: **PCA on/off**, **CO
 ├── cosmo_xtb/                 # quantum-chemistry dataset generation (ORCA + xTB + openCOSMO-RS)
 │   ├── ORCA-COSMORS solubility prediction.ipynb
 │   ├── first_100.csv          # 100-solvent x 12-temperature grid
-│   ├── cosmo_manifest.csv     # solvent -> sigma-profile file map
 │   ├── clozapine_pure_solvent_pretrain_100.csv
+│   ├── cosmo_calcs/
+│   │   └── cosmo_manifest.csv # solvent -> sigma-profile file map
 │   └── requirements.txt
 └── results/
     ├── *.png                  # parity plots, one per configuration / split
